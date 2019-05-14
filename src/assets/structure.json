@@ -1,0 +1,494 @@
+{
+  "details": {},
+  "sections": [
+    {
+      "name": "אבחון והערכת הזנחה",
+      "shortName": "הערכת הזנחה",
+      "index": "1",
+      "level": "1",
+      "sections": [
+        {
+          "name": "הזנחה בצרכים פיסיים",
+          "shortName": "צרכים פיסיים",
+          "index": "11",
+          "level": "2",
+          "ColorScheme":[
+            "rgba(255,51,102,0.7)",
+            "rgba(51,255,0,0.7)",
+            "rgba(51,204,0,0.7)",
+            "rgba(51,153,0,0.7)",
+            "rgba(51,102,0,0.7)"],
+          "sections": [
+            {
+              "name": "תזונה",
+              "shortName": "תזונה",
+              "index": "111",
+              "level": "3",
+              "sections": null,
+              "ColorScheme":[],
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "איכות המזון המוגש לילד",
+                  "shortName": "איכות המזון",
+                  "index": "1111"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "כמות המזון המוגש לילד",
+                  "shortName": "כמות המזון",
+                  "index": "1112"
+                },
+                {
+                  "questionNumber": 3,
+                  "name": "הכנה וארגון של ארוחות",
+                  "shortName": "ארגון ארוחות",
+                  "index": "1113"
+                }
+              ]
+            },
+            {
+              "name": "בית",
+              "shortName": "בית",
+              "index": "112",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "תחזוקה",
+                  "shortName": "תחזוקה",
+                  "index": "1121"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "ניקיון הבית",
+                  "shortName": "ניקיון",
+                  "index": "1122"
+                },
+                {
+                  "questionNumber": 3,
+                  "name": "ריהוט",
+                  "shortName": "ריהוט",
+                  "index": "1123"
+                },
+                {
+                  "questionNumber": 4,
+                  "name": "זמינות של שירותים",
+                  "shortName": "זמינות שירותים",
+                  "index": "1124"
+                }
+              ]
+            },
+            {
+              "name": "היגיינה",
+              "shortName": "היגיינה",
+              "index": "113",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "רמת היגיינה כללית",
+                  "shortName": "רמת היגיינה",
+                  "index": "1131"
+
+                }
+              ]
+            },
+            {
+              "name": "ביגוד",
+              "shortName": "ביגוד",
+              "index": "114",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "איכות כמות והתאמה",
+                  "shortName": "איכות",
+                  "index": "1141"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "ניקיון",
+                  "shortName": "ניקיון",
+                  "index": "1142"
+
+                }
+              ]
+            }
+          ],
+          "questions": null
+        },
+        {
+          "name": "הזנחה בצרכים רפואיים",
+          "shortName": " צרכים רפואיים",
+          "index": "12",
+          "level": "2",
+          "sections": null,
+          "ColorScheme":[
+            "rgba(255,255,153,0.7)",
+            "rgba(255,255,102,0.7)",
+            "rgba(255,255,51,0.7)",
+            "rgba(255,255,0,0.7)",
+            "rgba(255,255,0,0.9)"],
+          "questions": [
+            {
+              "questionNumber": 1,
+              "name": "טיפול במצבים רפואיים, במחלות ופציעות",
+              "shortName": "טיפול",
+              "index": "1211"
+
+            },
+            {
+              "questionNumber": 2,
+              "name": "רפואה מונעת ומעקב רפואי",
+              "shortName": "מעקב רפואי",
+              "index": "1212"
+
+            },
+            {
+              "questionNumber": 3,
+              "name": "טיפול בלקויות רגשיות ולימודיות ובבריאות הנפש",
+              "shortName": "בבריאות הנפש",
+              "index": "1213"
+
+            }
+          ]
+        },
+        {
+          "name": "הזנחה בצרכים חינוכיים",
+          "shortName": "צרכים חינוכיים",
+          "index": "13",
+          "level": "2",
+          "sections": null,
+          "ColorScheme":[
+            "rgba(102,204,255,0.7)",
+            "rgba(102,153,255,0.7)",
+            "rgba(102,102,255,0.7)",
+            "rgba(102,51,255,0.7)",
+            "rgba(102,0,255,0.7)"],
+          "questions": [
+            {
+              "questionNumber": 1,
+              "name": "ביקור סדיר בלימודים",
+              "shortName": "ביקור סדיר בלימודים",
+              "index": "1311"
+
+            },
+            {
+              "questionNumber": 2,
+              "name": "צרכים חינוכיים",
+              "shortName": "צרכים חינוכיים",
+              "index": "1312"
+
+            },
+            {
+              "questionNumber": 3,
+              "name": "מעורבות הורים במסגרת הלימודית",
+              "shortName": "מעורבות הורים",
+              "index": "1313"
+
+            },
+            {
+              "questionNumber": 4,
+              "name": "הישגים אקדמאיים",
+              "shortName": "הישגים",
+              "index": "1314"
+
+            }
+          ]
+        },
+        {
+          "name": "הזנחה בצרכים של בטיחות, פיקוח והשגחה",
+          "shortName": "פיקוח והשגחה",
+          "index": "14",
+          "level": "2",
+          "ColorScheme":[
+            "rgba(255,204,51,0.7)",
+            "rgba(255,153,51,0.7)",
+            "rgba(255,102,51,0.7)",
+            "rgba(255,102,0,0.7)",
+            "rgba(255,102,0,0.9)"],
+          "sections": [
+            {
+              "name": "הזנחה המתקיימת בנוכחות הורים",
+              "shortName": "בנוכחות הורים",
+              "index": "141",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "מודעות הורים",
+                  "shortName": "מודעות הורים",
+                  "index": "1411"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "סידורי בטיחות",
+                  "shortName": "סידורי בטיחות",
+                  "index": "1412"
+
+                },
+                {
+                  "questionNumber": 3,
+                  "name": "השגחה ופיקוח על ילדים צעירים (מתחת לגיל 13)",
+                  "shortName": "השגחה (מתחת לגיל 13)",
+                  "index": "1413"
+
+                },
+                {
+                  "questionNumber": 4,
+                  "name": "השגחה ופיקוח על ילדים צעירים (מעל לגיל 13)",
+                  "shortName": "השגחה (מעל לגיל 13)",
+                  "index": "1414"
+
+                }
+              ]
+            },
+            {
+              "name": "הזנחה המתקיימת בהעדר הורים",
+              "shortName": "בהיעדר הורים",
+              "index": "142",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "השארת ילד ללא השגחה",
+                  "shortName": "השארת ילד ללא השגחה",
+                  "index": "1421"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "רצף הורות",
+                  "shortName": "רצף הורות",
+                  "index": "1422"
+
+                }
+              ]
+            }
+          ],
+          "questions":null
+        },
+        {
+          "name": "הזנחה בצרכים רגשיים",
+          "shortName": "צרכים רגשיים",
+          "index": "15",
+          "level": "2",
+          "ColorScheme":[
+            "rgba(255,153,255,0.7)",
+            "rgba(255,102,255,0.7)",
+            "rgba(255,51,255,0.7)",
+            "rgba(255,0,255,0.7)",
+            "rgba(255,0,255,0.9)"],
+          "sections": [
+            {
+              "name": "גירויים התפתחותיים",
+              "shortName": "גירויים התפתחותיים",
+              "index": "151",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "נוכחות גירויים התפתחותיים בסיסיים",
+                  "shortName": "גירויים בסיסיים",
+                  "index": "1511"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "גירויים פעילים מצד ההורים",
+                  "shortName": "גירויים מצד ההורים",
+                  "index": "1512"
+
+                }
+              ]
+            },
+            {
+              "name": "הכלה וקבלה של הילדים",
+              "shortName": "קבלה של הילדים",
+              "index": "152",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "קבלה של הילדים",
+                  "shortName": "קבלה של הילדים",
+                  "index": "1521"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "גבולות והפגנת סמכות הורית",
+                  "shortName": "הצבת גבולות",
+                  "index": "1522"
+
+                },
+                {
+                  "questionNumber": 3,
+                  "name": "עקביות במשמעת הורית",
+                  "shortName": "עקביות במשמעת",
+                  "index": "1523"
+
+                }
+              ]
+            },
+            {
+              "name": "יחס ההורה לילד",
+              "shortName": "יחס ההורה לילד",
+              "index": "153",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "רגישות ההורה כלפי הילד",
+                  "shortName": "רגישות כלפי הילד",
+                  "index": "1531"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "תגובה רגשית של ההורה לילד",
+                  "shortName": "תגובה רגשית של ההורה",
+                  "index": "1532"
+
+                }
+              ]
+            },
+            {
+              "name": "דפוסי התקשורת במערכת היחסים בין ההורה לילד",
+              "shortName": "דפוסי התקשורת במשפחה",
+              "index": "154",
+              "level": "3",
+              "sections": null,
+              "questions": [
+                {
+                  "questionNumber": 1,
+                  "name": "קיום אינטרקציה בין ההורה לילד",
+                  "shortName": "קיום אינטרקציה",
+                  "index": "1541"
+
+                },
+                {
+                  "questionNumber": 2,
+                  "name": "איכות האינטרקציה בין ההורה לילד",
+                  "shortName": "איכות האינטרקציה",
+                  "index": "1542"
+
+                },
+                {
+                  "questionNumber": 3,
+                  "name": "קשר ילד משפחה",
+                  "shortName": "קשר ילד משפחה",
+                  "index": "1543"
+
+                }
+              ]
+            }
+          ],
+          "questions": null
+        }
+      ],
+      "questions": null
+    },
+    {
+      "name": "יכולת המשפחה לחולל שינוי",
+      "shortName": "יכולת המשפחה לחולל שינוי",
+      "index": "2",
+      "level": "1",
+      "sections": [
+        {
+          "name": "מודעות ומוטיבציה לשינוי המצב הקיים",
+          "shortName": "מוטיבציה לשינוי",
+          "index": "21",
+          "level": "2",
+          "sections": null,
+          "ColorScheme":[
+            "rgba(255,51,102,0.7)",
+            "rgba(51,255,0,0.7)",
+            "rgba(51,204,0,0.7)",
+            "rgba(51,153,0,0.7)",
+            "rgba(51,102,0,0.7)"],
+          "questions": [
+            {
+              "questionNumber": 1,
+              "name": "יכולת לדאוג לילדים",
+              "shortName": "יכולת לדאוג לילדים",
+              "index": "2111"
+
+            },
+            {
+              "questionNumber": 2,
+              "name": "מודעות לקיומה של בעיה",
+              "shortName": "מודעות לקיומה של בעיה",
+              "index": "2112"
+
+            },
+            {
+              "questionNumber": 3,
+              "name": "מוטיבציה לפתרון הבעיה",
+              "shortName": "מוטיבציה לפתרון הבעיה",
+              "index": "2113"
+
+            },
+            {
+              "questionNumber": 4,
+              "name": "נכונות לשיתוף פעולה עם גורמי טיפול בקהילה",
+              "shortName": "נכונות לשיתוף",
+              "index": "2114"
+
+            }
+          ]
+        },
+        {
+          "name": "זמינות מקורות תמיכה ושירותים למשפחה",
+          "shortName": "זמינות מקורות תמיכה",
+          "index": "22",
+          "level": "2",
+          "sections": null,
+          "ColorScheme":[
+            "rgba(255,204,51,0.7)",
+            "rgba(255,153,51,0.7)",
+            "rgba(255,102,51,0.7)",
+            "rgba(255,102,0,0.7)",
+            "rgba(255,102,0,0.9)"],
+          "questions": [
+            {
+              "questionNumber": 1,
+              "name": "התנהלות כלכלית",
+              "shortName": "התנהלות כלכלית",
+              "index": "2211"
+
+            },
+            {
+              "questionNumber": 2,
+              "name": "מעגלי תמיכה למשפחה",
+              "shortName": "מעגלי תמיכה",
+              "index": "2212"
+
+            },
+            {
+              "questionNumber": 3,
+              "name": "זמינות ונגישות של שירותים למשפחה",
+              "shortName": "זמינות שירותים",
+              "index": "2213"
+
+            }
+          ]
+        }
+      ],
+      "questions": null
+    }
+  ]
+}
